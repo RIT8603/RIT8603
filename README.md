@@ -1,133 +1,75 @@
 <div align="center">
 
-# 👋 Hey there, I'm Ritesh Kumar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ritesh%20Kumar&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%2FML%20Developer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Generative%20AI&descAlignY=60&descSize=16" />
 
-### 🤖 AI/ML Engineer in the Making | Computer Vision Enthusiast | Building Intelligent Systems That Solve Real Problems
+**Building intelligent systems that solve real problems — from model to production.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Turning+Data+into+Decisions;Computer+Vision+%7C+Machine+Learning+%7C+GenAI;Building+End-to-End+AI+Products;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0F0F0F?style=for-the-badge&logoColor=white)](https://ritesh-ml-folio.vercel.app)
+[![Resume](https://img.shields.io/badge/📄%20Resume-1a1a2e?style=for-the-badge)](https://drive.google.com/your-resume-link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-nxt)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshraj339955@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshraj339955@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RIT8603)
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1200&color=7C3AED&center=true&vCenter=true&width=550&lines=Computer+Vision+%7C+Machine+Learning+%7C+GenAI;End-to-End+AI+Products+%7C+Flask+%7C+React;3+AI+Internships+%7C+5%2B+Hackathons+%7C+B.Tech+CSE" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 👤 About Me
 
-```python
-class Ritesh:
-    def __init__(self):
-        self.role = "AI/ML & Computer Vision Engineer (in progress)"
-        self.education = "B.Tech CSE, MIET Noida (AKTU) — Lateral Entry"
-        self.focus = ["Computer Vision", "Machine Learning", "Generative AI"]
-        self.currently_learning = ["Deep Learning", "LayoutLMv3", "Multimodal AI"]
-        self.goal = "Land an AI/ML internship and build production-grade AI products"
+**AI/ML Developer** pursuing B.Tech CSE at MIET Noida (AKTU), specializing in building end-to-end AI systems — from data pipelines to deployed products.
 
-    def say_hi(self):
-        print("Let's build something intelligent together! 🚀")
-
-
-me = Ritesh()
-me.say_hi()
-```
-
-- 🎓 Computer Science undergraduate pursuing **B.Tech CSE** at **MIET Noida**, after completing my Diploma in CSE
-- 🔭 Currently building **end-to-end ML/CV pipelines** — from data preprocessing to deployment
-- 👁️ Deeply interested in **Computer Vision** — image classification, OCR, and document intelligence
-- 🌱 Currently leveling up in **Deep Learning, LayoutLMv3, and Multimodal AI** for document understanding
-- 💼 Actively seeking **AI/ML & Computer Vision internship** opportunities
-- ⚡ Fun fact: I've completed 3 AI/ML internships and 5+ hackathons before even finishing my degree
+| | |
+|---|---|
+| 🎯 **Focus** | Computer Vision · Machine Learning · Generative AI |
+| 🏗️ **Building** | Full-stack AI applications with real-world deployment |
+| 📖 **Learning** | Deep Learning · LayoutLMv3 · Multimodal AI |
+| 💼 **Goal** | AI/ML or Computer Vision internship at a product company |
+| ⚡ **Track record** | 3 AI internships · 5+ hackathons · 300+ GitHub contributions |
 
 ---
 
 ## 🛠️ Tech Stack
 
-<details open>
-<summary><b>💻 Programming</b></summary>
-<br>
+**Programming**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-</details>
+**Machine Learning**
 
-<details open>
-<summary><b>🤖 Machine Learning</b></summary>
-<br>
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
 
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+**Computer Vision**
 
-</details>
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=flat-square&logo=python&logoColor=white)
+![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0062B1?style=flat-square)
+![LayoutLMv3](https://img.shields.io/badge/LayoutLMv3-7C3AED?style=flat-square)
 
-<details open>
-<summary><b>👁️ Computer Vision</b></summary>
-<br>
+**Web & Deployment**
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Image Processing](https://img.shields.io/badge/Image%20Processing-FF6F61?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-</details>
+**Generative AI**
 
-<details open>
-<summary><b>📊 Data Analysis</b></summary>
-<br>
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🌐 Web Development</b></summary>
-<br>
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>✨ AI & Generative AI</b></summary>
-<br>
-
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4B8BBE?style=for-the-badge)
-
-</details>
-
-<details open>
-<summary><b>☁️ Cloud & Deployment</b></summary>
-<br>
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🧰 Tools</b></summary>
-<br>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-
-</details>
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4B8BBE?style=flat-square)
 
 ---
 
@@ -138,23 +80,23 @@ me.say_hi()
 <td width="50%" valign="top">
 
 ### 🌿 Plant Disease Detection System
-Computer vision system that classifies **38 plant disease/healthy classes** from leaf images using a classical ML pipeline (StandardScaler + SGDClassifier on handcrafted color/texture/edge features), trained on **87,800+ images**, achieving **84.77% validation accuracy**. Deployed via a Flask REST API with a React + Tailwind frontend for real-time predictions and treatment guidance.
+Classifies **38 plant disease/healthy classes** from leaf images using handcrafted color, texture, and edge features with a classical ML pipeline. Trained on **87,800+ images** · **84.77% validation accuracy** · Deployed with Flask + React.
 
-**Tech:** `Python` `Flask` `Scikit-Learn` `NumPy` `Pillow` `React` `Tailwind CSS`
+`Python` `Flask` `Scikit-Learn` `OpenCV` `React` `Tailwind`
 
-[![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RIT8603/Plant-Disease-Detection-System)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-46E3B7?style=flat-square&logo=render&logoColor=white)](https://plant-disease-frontend-9zza.onrender.com/)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/RIT8603/Plant-Disease-Detection-System)
+[![Live](https://img.shields.io/badge/Live%20Demo-46E3B7?style=flat-square&logo=render&logoColor=white)](https://plant-disease-frontend-9zza.onrender.com/)
 
 </td>
 <td width="50%" valign="top">
 
 ### 📚 Book Recommendation System
-Personalized recommendation engine combining **popularity-based and item-similarity collaborative filtering** on the Book-Crossing dataset (filtered to books with 250+ ratings, users with 200+ ratings). Built with a Flask backend and Supabase-powered admin dashboard for on-demand model retraining.
+Personalized recommendation engine using popularity-based and item-similarity collaborative filtering on the Book-Crossing dataset. Features a Supabase-powered admin dashboard for on-demand model retraining.
 
-**Tech:** `Python` `Flask` `Scikit-Learn` `Supabase`
+`Python` `Flask` `Scikit-Learn` `Supabase`
 
-[![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RIT8603/Book-Recommend-System)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-46E3B7?style=flat-square&logo=render&logoColor=white)](https://book-recommend-system-blsz.onrender.com/recommend)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/RIT8603/Book-Recommend-System)
+[![Live](https://img.shields.io/badge/Live%20Demo-46E3B7?style=flat-square&logo=render&logoColor=white)](https://book-recommend-system-blsz.onrender.com/recommend)
 
 </td>
 </tr>
@@ -162,23 +104,22 @@ Personalized recommendation engine combining **popularity-based and item-similar
 <td width="50%" valign="top">
 
 ### 📉 Customer Churn Prediction
-ML model predicting customer churn on the **Telco Customer Churn dataset (7,043 customers)**. Compared five algorithms (Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, XGBoost); selected **Logistic Regression** as the best performer — **80.48% accuracy, 0.846 ROC-AUC, 0.595 F1-score**. Deployed as an interactive web app for real-time predictions.
+Benchmarked 5 algorithms (LR, DT, RF, GBM, XGBoost) on 7,043 customer records. Final model: **80.48% accuracy · 0.846 ROC-AUC · 0.595 F1**. Deployed as an interactive real-time prediction app.
 
-**Tech:** `Python` `Scikit-Learn` `Pandas` `Flask`
+`Python` `Scikit-Learn` `Pandas` `Flask`
 
-[![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RIT8603/churn_prediction)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-46E3B7?style=flat-square&logo=render&logoColor=white)](https://churn-prediction-3ro1.onrender.com/)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/RIT8603/churn_prediction)
+[![Live](https://img.shields.io/badge/Live%20Demo-46E3B7?style=flat-square&logo=render&logoColor=white)](https://churn-prediction-3ro1.onrender.com/)
 
 </td>
 <td width="50%" valign="top">
 
 ### 📄 GeminiDecode
-Streamlit-based **multilingual document analysis app** powered by the **Google Gemini API**, enabling content extraction, translation, and AI-generated insights from uploaded documents and images.
+Streamlit app for **multilingual document analysis** powered by the Google Gemini API — content extraction, translation, and AI-generated insights from uploaded documents and images.
 
-**Tech:** `Python` `Streamlit` `Google Gemini API` `Pillow` `dotenv`
+`Python` `Streamlit` `Google Gemini API` `Pillow`
 
-[![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RIT8603/GeminiDecode)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-46E3B7?style=flat-square&logo=streamlit&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/RIT8603/GeminiDecode)
 
 </td>
 </tr>
@@ -186,54 +127,35 @@ Streamlit-based **multilingual document analysis app** powered by the **Google G
 
 ---
 
-## 🗂️ Other Notable Repositories
-
-A snapshot of additional projects from my GitHub activity — spanning full-stack apps, automation tooling, and platform builds:
-
-| Repository | Stack | Description |
-|---|---|---|
-| [**PREngine**](https://github.com/RIT8603/PREngine) | `TypeScript` | Multi-version roadmap for an earning & campaign management platform — contributor verification, fraud detection, and AI-driven features |
-| [**ritesh-ml-folio**](https://github.com/RIT8603/ritesh-ml-folio) | `TypeScript` | My personal AI/ML portfolio site — Next.js, Tailwind CSS, Framer Motion, dark glassmorphism theme |
-| [**SeatBuddy**](https://github.com/RIT8603/SeatBuddy) | `TypeScript` | Full-stack web application |
-| [**Unique-B2B-Spa**](https://github.com/RIT8603/Unique-B2B-Spa) | `JavaScript` | Single-page business application |
-| [**Trackademic**](https://github.com/RIT8603/Trackademic) | `TypeScript` | Academic tracking platform |
-| [**RiComUser**](https://github.com/RIT8603/RiComUser) | `TypeScript` | User-facing community application module |
-| [**connect-grow**](https://github.com/RIT8603/connect-grow) | `TypeScript` | Networking/growth-focused web app |
-| [**steganography**](https://github.com/RIT8603/steganography) | `Python` | Secure data hiding in images using LSB-based steganography |
-
-📌 *Explore the full list on my [GitHub repositories](https://github.com/RIT8603?tab=repositories) page.*
-
----
-
-## 💼 Professional Experience
+## 💼 Experience
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**🌐 Generative AI Intern**
-*Google Cloud (Virtual)*
-`Sep 2024 – Oct 2024`
+**Generative AI Intern**
+Google Cloud · *Virtual*
+`Sep – Oct 2024`
 
-Built **GeminiDecode**, a multilingual document analysis app using Google Gemini APIs for extraction, translation, and AI-powered insights. Integrated GenAI models into Python applications for automated document understanding.
-
-</td>
-<td width="33%" valign="top">
-
-**🌱 AI Intern — Green Tech AI**
-*IBM (AICTE, Shell India & Edunet)*
-`Apr 2025 – May 2025`
-
-Applied AI/ML techniques to sustainability and energy-efficiency use cases using real-world datasets, developing data-driven solution concepts for green technology challenges.
+Built GeminiDecode — a multilingual document analysis tool using Gemini APIs for extraction, translation, and automated document understanding.
 
 </td>
 <td width="33%" valign="top">
 
-**🔐 Cybersecurity Intern**
-*IBM (AICTE & Edunet – SkillsBuild)*
-`Jan 2025 – Feb 2025`
+**AI Intern — Green Tech AI**
+IBM · AICTE / Shell India / Edunet
+`Apr – May 2025`
 
-Built an **image steganography** application using LSB-based data hiding techniques; explored information security, threat detection, and secure communication principles.
+Applied ML to sustainability and energy-efficiency datasets; developed data-driven solution concepts for green technology challenges.
+
+</td>
+<td width="33%" valign="top">
+
+**Cybersecurity Intern**
+IBM · AICTE / Edunet SkillsBuild
+`Jan – Feb 2025`
+
+Built an LSB-based image steganography app; explored threat detection, information security, and secure communication principles.
 
 </td>
 </tr>
@@ -243,74 +165,55 @@ Built an **image steganography** application using LSB-based data hiding techniq
 
 ## 🏆 Achievements
 
-- 🏁 Participated in **5+ hackathons**, including the **IIT Patna Hackathon** and **Smart India Hackathon (SIH)**, solving real-world challenges under strict deadlines
-- 🧑‍🏫 Served as a **College Campus Mentor**, organizing multiple technical events for the student community
-- 🌍 Member, **Google Developer Group (GDG) Patna**
-- 👥 Admin of **5+ tech-focused community groups**, collectively managing **1,000+ students**
+| | |
+|---|---|
+| 🏁 **Hackathons** | 5+ competitions including IIT Patna Hackathon and Smart India Hackathon (SIH) |
+| 🌍 **Community** | Member of Google Developer Group (GDG) Patna |
+| 🧑‍🏫 **Mentorship** | College Campus Mentor — organized multiple technical events |
+| 👥 **Leadership** | Admin of 5+ tech communities managing 1,000+ students |
 
 ---
 
-## 📜 Certifications
+## 🧾 Currently Building
 
-- 🎓 **Mastering Machine Learning: From Beginner to Expert** — GeeksforGeeks (2026)
-- 🔥 **Introduction to Firewall** — Great Learning Academy (2023)
-- ⛓️ **Blockchain Basics** — Great Learning Academy (2023)
+| Project | Status |
+|---|---|
+| **BillWise AI** — Invoice extraction with PaddleOCR + LayoutLMv3 (CORD, FUNSD, SROIE) | 🔨 In Progress |
+| **CNN/Transformer CV** — Moving from classical ML toward deep learning architectures | 📖 Learning |
+| **Multimodal AI** — Combining vision + language models for document understanding | 🔬 Exploring |
+| **Full-Stack AI Apps** — Connecting ML models to real, usable products | 🚀 Building |
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RIT8603&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RIT8603&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=RIT8603&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RIT8603&theme=tokyonight&hide_border=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIT8603&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RIT8603&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIT8603&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RIT8603&theme=tokyo-night&hide_border=true&area=true" width="49%" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=RIT8603&theme=tokyonight&no-frame=true&column=6&margin-w=8" />
 
 </div>
 
 ---
 
-## 🚧 Currently Working On
-
-- 🧾 **BillWise AI** — an invoice field extraction pipeline using **PaddleOCR + LayoutLMv3**, trained on CORD, FUNSD, and SROIE datasets
-- 👁️ Deepening expertise in **Computer Vision** beyond classical ML, moving toward CNN/transformer-based architectures
-- 🧩 Exploring **Multimodal AI** — combining vision and language models for document and image understanding
-- ✨ Expanding hands-on skills in **Generative AI** applications using LLM APIs
-- 🏗️ Building **full-stack AI applications** that connect ML models to real, usable products
-
----
-
-## 🎯 Fun Facts
-
-- ♟️ I unwind with a game of **chess or carrom**
-- 📚 I read books on **technology and personal growth**
-- 🚴 You'll often find me **cycling** to clear my head
-- 🎵 Good music + good code = a productive day
-- 🗓️ Shipping code on GitHub since **August 2024** — 300+ contributions and counting
-
----
-
-## 🔗 Connect With Me
+## 🔗 Let's Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0F0F0F?style=for-the-badge)](https://ritesh-ml-folio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-nxt)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RIT8603)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshraj339955@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RIT8603)
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-> *"The best way to predict the future is to build it — one model, one line of code at a time."*
-
-⭐️ **Thanks for stopping by — let's build something intelligent together!** ⭐️
-
-<img src="https://komarev.com/ghpvc/?username=RIT8603&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
