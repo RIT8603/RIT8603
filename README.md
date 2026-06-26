@@ -28,7 +28,7 @@
 | 🏗️ **Building** | Full-stack AI applications with real-world deployment |
 | 📖 **Learning** | Deep Learning · LayoutLMv3 · Multimodal AI |
 | 💼 **Goal** | AI/ML or Computer Vision internship at a product company |
-| ⚡ **Track record** | 3 AI internships · 5+ hackathons · 300+ GitHub contributions |
+| ⚡ **Track record** | 3 AI internships · 5+ hackathons · 340+ GitHub contributions (2024–2026) |
 
 ---
 
