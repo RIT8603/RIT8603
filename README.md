@@ -189,15 +189,217 @@ Built an LSB-based image steganography app; explored threat detection, informati
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RIT8603&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RIT8603&theme=tokyonight&hide_border=true" width="49%" />
+<!--  CONTRIBUTION OVERVIEW  -->
+<svg width="495" height="195" viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1b27"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+  </defs>
+  <!-- Card background -->
+  <rect width="495" height="195" rx="12" fill="url(#bg1)" stroke="#2d2f45" stroke-width="1"/>
+  <!-- Top accent bar -->
+  <rect width="495" height="3" rx="2" fill="url(#accent)"/>
+  <!-- Title -->
+  <text x="25" y="38" font-family="JetBrains Mono, monospace" font-size="15" font-weight="700" fill="#e2e8f0">Ritesh Kumar's GitHub Stats</text>
+  <text x="25" y="56" font-family="JetBrains Mono, monospace" font-size="10" fill="#6b7280">@RIT8603 · Active since Aug 2024</text>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIT8603&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RIT8603&theme=tokyo-night&hide_border=true&area=true" width="49%" />
+  <!-- Divider -->
+  <line x1="25" y1="68" x2="470" y2="68" stroke="#2d2f45" stroke-width="1"/>
+
+  <!-- Stat boxes -->
+  <!-- Total Contributions -->
+  <rect x="25" y="80" width="130" height="80" rx="8" fill="#0f1623" stroke="#2d2f45" stroke-width="1"/>
+  <text x="90" y="112" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="24" font-weight="800" fill="#7c3aed">343</text>
+  <text x="90" y="130" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="9" fill="#6b7280">Total Contributions</text>
+  <text x="90" y="148" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="8" fill="#3b82f6">2024 – 2026</text>
+
+  <!-- Repositories -->
+  <rect x="165" y="80" width="130" height="80" rx="8" fill="#0f1623" stroke="#2d2f45" stroke-width="1"/>
+  <text x="230" y="112" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="24" font-weight="800" fill="#7c3aed">20+</text>
+  <text x="230" y="130" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="9" fill="#6b7280">Repositories</text>
+  <text x="230" y="148" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="8" fill="#3b82f6">Public Projects</text>
+
+  <!-- Most Active Year -->
+  <rect x="305" y="80" width="165" height="80" rx="8" fill="#0f1623" stroke="#2d2f45" stroke-width="1"/>
+  <text x="387" y="112" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="24" font-weight="800" fill="#7c3aed">2026</text>
+  <text x="387" y="130" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="9" fill="#6b7280">Most Active Year</text>
+  <text x="387" y="148" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="8" fill="#3b82f6">253 contributions</text>
+</svg>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=RIT8603&theme=tokyonight&no-frame=true&column=6&margin-w=8" />
+<!--  YEARLY BREAKDOWN  -->
+<svg width="495" height="175" viewBox="0 0 495 175" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1b27"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="bar2024" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#1d4ed8"/>
+    </linearGradient>
+    <linearGradient id="bar2025" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#5b21b6"/>
+    </linearGradient>
+    <linearGradient id="bar2026" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="495" height="175" rx="12" fill="url(#bg2)" stroke="#2d2f45" stroke-width="1"/>
+  <rect width="495" height="3" rx="2" fill="url(#accent)"/>
+
+  <text x="25" y="35" font-family="JetBrains Mono, monospace" font-size="13" font-weight="700" fill="#e2e8f0">Contribution Growth</text>
+  <text x="450" y="35" text-anchor="end" font-family="JetBrains Mono, monospace" font-size="9" fill="#6b7280">3× YoY growth (2025→2026)</text>
+
+  <!-- Max bar height = 80px for 253 contributions -->
+  <!-- 2024: 12 → 12/253*80 = ~3.8px -->
+  <!-- 2025: 78 → 78/253*80 = ~24.7px -->
+  <!-- 2026: 253 → 80px -->
+
+  <!-- Year labels -->
+  <text x="120" y="155" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="11" fill="#6b7280">2024</text>
+  <text x="248" y="155" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="11" fill="#6b7280">2025</text>
+  <text x="376" y="155" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="11" fill="#a855f7">2026</text>
+
+  <!-- Bars (bottom-aligned at y=140) -->
+  <!-- 2024: height 4 -->
+  <rect x="75" y="136" width="90" height="4" rx="2" fill="url(#bar2024)"/>
+  <text x="120" y="130" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" font-weight="700" fill="#3b82f6">12</text>
+
+  <!-- 2025: height 25 -->
+  <rect x="203" y="115" width="90" height="25" rx="2" fill="url(#bar2025)"/>
+  <text x="248" y="109" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" font-weight="700" fill="#7c3aed">78</text>
+
+  <!-- 2026: height 80 -->
+  <rect x="331" y="60" width="90" height="80" rx="2" fill="url(#bar2026)"/>
+  <text x="376" y="54" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" font-weight="700" fill="#a855f7">253</text>
+
+  <!-- Baseline -->
+  <line x1="25" y1="140" x2="470" y2="140" stroke="#2d2f45" stroke-width="1"/>
+</svg>
+
+<br/>
+
+<!--  TOP LANGUAGES (from actual repos)  -->
+<svg width="495" height="175" viewBox="0 0 495 175" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1b27"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="495" height="175" rx="12" fill="url(#bg3)" stroke="#2d2f45" stroke-width="1"/>
+  <rect width="495" height="3" rx="2" fill="url(#accent)"/>
+
+  <text x="25" y="35" font-family="JetBrains Mono, monospace" font-size="13" font-weight="700" fill="#e2e8f0">Top Languages</text>
+  <text x="450" y="35" text-anchor="end" font-family="JetBrains Mono, monospace" font-size="9" fill="#6b7280">by repository activity</text>
+
+  <!-- Language bars (widths based on repo count: TS=8, JS=4, Python=5, PHP=1, Jupyter=2) -->
+  <!-- Total = 20 slots -->
+  <!-- TypeScript: 8/20 = 40% → 176px -->
+  <!-- Python: 5/20 = 25% → 110px -->
+  <!-- JavaScript: 4/20 = 20% → 88px -->
+  <!-- Jupyter: 2/20 = 10% → 44px -->
+  <!-- PHP: 1/20 = 5% → 22px -->
+
+  <!-- TypeScript -->
+  <text x="25" y="62" font-family="JetBrains Mono, monospace" font-size="10" fill="#a78bfa">TypeScript</text>
+  <text x="450" y="62" text-anchor="end" font-family="JetBrains Mono, monospace" font-size="10" fill="#6b7280">40%</text>
+  <rect x="25" y="66" width="440" height="6" rx="3" fill="#1e2033"/>
+  <rect x="25" y="66" width="176" height="6" rx="3" fill="#3178c6"/>
+
+  <!-- Python -->
+  <text x="25" y="90" font-family="JetBrains Mono, monospace" font-size="10" fill="#a78bfa">Python</text>
+  <text x="450" y="90" text-anchor="end" font-family="JetBrains Mono, monospace" font-size="10" fill="#6b7280">25%</text>
+  <rect x="25" y="94" width="440" height="6" rx="3" fill="#1e2033"/>
+  <rect x="25" y="94" width="110" height="6" rx="3" fill="#3572A5"/>
+
+  <!-- JavaScript -->
+  <text x="25" y="118" font-family="JetBrains Mono, monospace" font-size="10" fill="#a78bfa">JavaScript</text>
+  <text x="450" y="118" text-anchor="end" font-family="JetBrains Mono, monospace" font-size="10" fill="#6b7280">20%</text>
+  <rect x="25" y="122" width="440" height="6" rx="3" fill="#1e2033"/>
+  <rect x="25" y="122" width="88" height="6" rx="3" fill="#f1e05a"/>
+
+  <!-- Jupyter Notebook -->
+  <text x="25" y="146" font-family="JetBrains Mono, monospace" font-size="10" fill="#a78bfa">Jupyter Notebook</text>
+  <text x="450" y="146" text-anchor="end" font-family="JetBrains Mono, monospace" font-size="10" fill="#6b7280">10%</text>
+  <rect x="25" y="150" width="440" height="6" rx="3" fill="#1e2033"/>
+  <rect x="25" y="150" width="44" height="6" rx="3" fill="#DA5B0B"/>
+
+  <!-- PHP -->
+  <text x="25" y="170" font-family="JetBrains Mono, monospace" font-size="10" fill="#a78bfa">PHP</text>
+  <text x="450" y="170" text-anchor="end" font-family="JetBrains Mono, monospace" font-size="10" fill="#6b7280">5%</text>
+  <rect x="25" y="159" width="440" height="6" rx="3" fill="#1e2033"/>
+  <rect x="25" y="159" width="22" height="6" rx="3" fill="#4F5D95"/>
+</svg>
+
+<br/>
+
+<!--  MONTHLY ACTIVITY HEATMAP 2026  -->
+<svg width="495" height="155" viewBox="0 0 495 155" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1b27"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="495" height="155" rx="12" fill="url(#bg4)" stroke="#2d2f45" stroke-width="1"/>
+  <rect width="495" height="3" rx="2" fill="url(#accent)"/>
+
+  <text x="25" y="33" font-family="JetBrains Mono, monospace" font-size="13" font-weight="700" fill="#e2e8f0">2026 Monthly Activity</text>
+  <text x="450" y="33" text-anchor="end" font-family="JetBrains Mono, monospace" font-size="9" fill="#6b7280">contributions by month</text>
+
+  <!-- Months: Jan=0, Feb=4, Mar=138, Apr=24, May=8, Jun=63 -->
+  <!-- Max = 138 (Mar), bar max height = 70px -->
+  <!-- Scale: value/138 * 70 -->
+
+  <!-- Jan: 0 → 0px -->
+  <text x="52" y="130" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="8" fill="#6b7280">Jan</text>
+  <text x="52" y="112" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="9" fill="#2d2f45">0</text>
+  <rect x="27" y="115" width="50" height="2" rx="1" fill="#1e2033"/>
+
+  <!-- Feb: 4 → 4/138*70 = 2px -->
+  <text x="130" y="130" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="8" fill="#6b7280">Feb</text>
+  <text x="130" y="109" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="9" fill="#4f46e5">4</text>
+  <rect x="105" y="113" width="50" height="4" rx="1" fill="#4f46e5" opacity="0.5"/>
+
+  <!-- Mar: 138 → 70px -->
+  <text x="208" y="130" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="8" fill="#a855f7">Mar</text>
+  <text x="208" y="42" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="9" fill="#a855f7">138</text>
+  <rect x="183" y="47" width="50" height="70" rx="2" fill="#7c3aed" opacity="0.9"/>
+
+  <!-- Apr: 24 → 24/138*70 = 12px -->
+  <text x="286" y="130" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="8" fill="#6b7280">Apr</text>
+  <text x="286" y="103" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="9" fill="#6366f1">24</text>
+  <rect x="261" y="105" width="50" height="12" rx="2" fill="#6366f1" opacity="0.7"/>
+
+  <!-- May: 8 → 8/138*70 = 4px -->
+  <text x="364" y="130" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="8" fill="#6b7280">May</text>
+  <text x="364" y="109" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="9" fill="#4f46e5">8</text>
+  <rect x="339" y="113" width="50" height="4" rx="2" fill="#4f46e5" opacity="0.6"/>
+
+  <!-- Jun: 63 → 63/138*70 = 32px -->
+  <text x="442" y="130" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="8" fill="#a78bfa">Jun</text>
+  <text x="442" y="80" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="9" fill="#a78bfa">63</text>
+  <rect x="417" y="83" width="50" height="32" rx="2" fill="#7c3aed" opacity="0.75"/>
+
+  <!-- Baseline -->
+  <line x1="20" y1="117" x2="475" y2="117" stroke="#2d2f45" stroke-width="1"/>
+</svg>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIT8603&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
+<img src="https://github-profile-trophy.vercel.app/?username=RIT8603&theme=tokyonight&no-frame=true&column=6&margin-w=8" width="98%" />
 
 </div>
 
