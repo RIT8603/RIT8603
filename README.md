@@ -6,6 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Turning+Data+into+Decisions;Computer+Vision+%7C+Machine+Learning+%7C+GenAI;Building+End-to-End+AI+Products;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-nxt)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshraj339955@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RIT8603)
@@ -27,6 +28,7 @@ class Ritesh:
 
     def say_hi(self):
         print("Let's build something intelligent together! 🚀")
+
 
 me = Ritesh()
 me.say_hi()
@@ -184,6 +186,25 @@ Streamlit-based **multilingual document analysis app** powered by the **Google G
 
 ---
 
+## 🗂️ Other Notable Repositories
+
+A snapshot of additional projects from my GitHub activity — spanning full-stack apps, automation tooling, and platform builds:
+
+| Repository | Stack | Description |
+|---|---|---|
+| [**PREngine**](https://github.com/RIT8603/PREngine) | `TypeScript` | Multi-version roadmap for an earning & campaign management platform — contributor verification, fraud detection, and AI-driven features |
+| [**ritesh-ml-folio**](https://github.com/RIT8603/ritesh-ml-folio) | `TypeScript` | My personal AI/ML portfolio site — Next.js, Tailwind CSS, Framer Motion, dark glassmorphism theme |
+| [**SeatBuddy**](https://github.com/RIT8603/SeatBuddy) | `TypeScript` | Full-stack web application |
+| [**Unique-B2B-Spa**](https://github.com/RIT8603/Unique-B2B-Spa) | `JavaScript` | Single-page business application |
+| [**Trackademic**](https://github.com/RIT8603/Trackademic) | `TypeScript` | Academic tracking platform |
+| [**RiComUser**](https://github.com/RIT8603/RiComUser) | `TypeScript` | User-facing community application module |
+| [**connect-grow**](https://github.com/RIT8603/connect-grow) | `TypeScript` | Networking/growth-focused web app |
+| [**steganography**](https://github.com/RIT8603/steganography) | `Python` | Secure data hiding in images using LSB-based steganography |
+
+📌 *Explore the full list on my [GitHub repositories](https://github.com/RIT8603?tab=repositories) page.*
+
+---
+
 ## 💼 Professional Experience
 
 <table>
@@ -267,6 +288,7 @@ Built an **image steganography** application using LSB-based data hiding techniq
 - 📚 I read books on **technology and personal growth**
 - 🚴 You'll often find me **cycling** to clear my head
 - 🎵 Good music + good code = a productive day
+- 🗓️ Shipping code on GitHub since **August 2024** — 300+ contributions and counting
 
 ---
 
@@ -274,6 +296,7 @@ Built an **image steganography** application using LSB-based data hiding techniq
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-nxt)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RIT8603)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshraj339955@gmail.com)
