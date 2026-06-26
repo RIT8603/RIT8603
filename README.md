@@ -329,27 +329,109 @@ Every model I build ships with an API and a UI. Connecting ML pipelines to React
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RIT8603&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&card_width=420" height="175" />
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=RIT8603&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=420" height="175" />
+<!-- ──────────────────────────────────────────
+     § 1  CORE STATS
+     ────────────────────────────────────────── -->
 
-<br/><br/>
+<table width="100%"><tr>
+<td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIT8603&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=420" height="155" />
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RIT8603&theme=tokyonight" height="155" />
+**📈 GitHub Stats**
 
-<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=RIT8603&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RIT8603&theme=tokyonight" width="98%" />
+</td>
+<td width="50%" align="center">
 
-<br/><br/>
+**🔥 Contribution Streak**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RIT8603&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph%20%E2%80%94%20RIT8603" width="98%" />
+<img src="https://streak-stats.demolab.com?user=RIT8603&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
-<br/><br/>
+</td>
+</tr></table>
 
-<img src="https://github-profile-trophy.vercel.app/?username=RIT8603&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10" width="98%" />
+<br/>
+
+<!-- ──────────────────────────────────────────
+     § 2  LANGUAGE INTELLIGENCE  (2 × 2)
+     ────────────────────────────────────────── -->
+
+**🧠 Language Intelligence**
+
+<table width="100%"><tr>
+<td width="25%" align="center">
+
+**By code size**
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIT8603&layout=pie&theme=tokyonight&hide_border=true&langs_count=6" />
+
+</td>
+<td width="25%" align="center">
+
+**By repository**
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RIT8603&theme=tokyonight" />
+
+</td>
+<td width="25%" align="center">
+
+**By commit count**
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RIT8603&theme=tokyonight" />
+
+</td>
+<td width="25%" align="center">
+
+**Peak hours · IST**
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RIT8603&theme=tokyonight&utcOffset=5.5" />
+
+</td>
+</tr></table>
+
+<br/>
+
+<!-- ──────────────────────────────────────────
+     § 3  TIMELINE
+     ────────────────────────────────────────── -->
+
+**📅 Commit Timeline**
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RIT8603&theme=tokyonight" width="100%" />
+
+<br/>
+
+<!-- ──────────────────────────────────────────
+     § 4  ACTIVITY GRAPH
+     ────────────────────────────────────────── -->
+
+**🗓️ Contribution Activity**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RIT8603&theme=tokyo-night&hide_border=true&area=true&custom_title=Daily%20Contributions%20%E2%80%94%20RIT8603" width="100%" />
+
+<br/>
+
+<!-- ──────────────────────────────────────────
+     § 5  TROPHIES
+     ────────────────────────────────────────── -->
+
+**🏆 GitHub Trophies**
+
+<img src="https://github-profile-trophy.vercel.app/?username=RIT8603&theme=tokyonight&no-frame=true&column=6&margin-w=12&margin-h=12" width="100%" />
+
+<br/>
+
+<!-- ──────────────────────────────────────────
+     § 6  SNAKE CONTRIBUTION GRAPH
+     ────────────────────────────────────────── -->
+
+**🐍 Contribution Snake**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RIT8603/RIT8603/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RIT8603/RIT8603/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/RIT8603/RIT8603/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
