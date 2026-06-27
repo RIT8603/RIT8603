@@ -6,8 +6,8 @@
 
 <div align="center">
 
-<a href="https://ritesh-ml-folio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>&nbsp;
-<a href="https://drive.google.com/your-resume-link"><img src="https://img.shields.io/badge/Resume-%231a1a2e.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" /></a>&nbsp;
+<a href="https://riteshnxt.dev"><img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/RIT8603/RIT8603/blob/main/ritesh-resume.pdf"><img src="https://img.shields.io/badge/Resume-%231a1a2e.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/ritesh-nxt"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="mailto:riteshraj339955@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
 <a href="https://github.com/RIT8603"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -414,12 +414,13 @@ Every model I build ships with an API and a UI. Connecting ML pipelines to React
 <!-- ──────────────────────────────────────────
      § 5  TROPHIES
      ────────────────────────────────────────── -->
-
+<br/><br/>
 **🏆 GitHub Trophies**
-
-<img src="https://github-profile-trophy.vercel.app/?username=RIT8603&theme=tokyonight&no-frame=true&column=6&margin-w=12&margin-h=12" width="100%" />
-
 <br/>
+
+<img src="https://github-trophies.vercel.app/?username=RIT8603&theme=tokyonight&no-frame=true&column=7" width="100%"/>
+
+<br/><br/>
 
 <!-- ──────────────────────────────────────────
      § 6  SNAKE CONTRIBUTION GRAPH
@@ -439,18 +440,87 @@ Every model I build ships with an API and a UI. Connecting ML pipelines to React
 
 ---
 
+<!-- ──────────────────────────────────────────
+     § 6  METRICS CARD
+     ────────────────────────────────────────── -->
+
+**📆 Yearly Contribution Summary**
+
+<table width="100%"><tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/2024-12%20contributions-3b82f6?style=for-the-badge&logo=github&logoColor=white" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/2025-78%20contributions-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+</td>
+<td align="center" width="34%">
+<img src="https://img.shields.io/badge/2026-253%2B%20contributions-a855f7?style=for-the-badge&logo=github&logoColor=white" />
+</td>
+</tr></table>
+
+</div>
+
+
+---
+
 ## 📜 Certifications
 
-| Year | Certification | Issuer |
-|------|--------------|--------|
-| 2026 | Mastering Machine Learning: Beginner to Expert | GeeksforGeeks |
-| 2025 | AI/ML for Green Tech | IBM · AICTE · Edunet |
-| 2025 | Cybersecurity Fundamentals | IBM SkillsBuild |
-| 2024 | Generative AI with Google Cloud | Google Cloud |
-| 2023 | Introduction to Firewall | Great Learning |
-| 2023 | Blockchain Basics | Great Learning |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+<img src="https://img.shields.io/badge/2026-GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
+
+**Mastering Machine Learning: Beginner to Expert**
+<br/><sub>GeeksforGeeks · 2026</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/2025-IBM%20%C2%B7%20AICTE%20%C2%B7%20Edunet-052FAD?style=flat-square&logo=ibm&logoColor=white" />
+
+**AI/ML for Green Tech**
+<br/><sub>IBM · AICTE · Edunet · 2025</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/2025-IBM%20SkillsBuild-052FAD?style=flat-square&logo=ibm&logoColor=white" />
+
+**Cybersecurity Fundamentals**
+<br/><sub>IBM SkillsBuild · 2025</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/2024-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+
+**Generative AI with Google Cloud**
+<br/><sub>Google Cloud · 2024</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/2023-Great%20Learning-FF6B35?style=flat-square&logo=greatlearning&logoColor=white" />
+
+**Introduction to Firewall**
+<br/><sub>Great Learning · 2023</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/2023-Great%20Learning-FF6B35?style=flat-square&logo=greatlearning&logoColor=white" />
+
+**Blockchain Basics**
+<br/><sub>Great Learning · 2023</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -464,7 +534,7 @@ Every model I build ships with an API and a UI. Connecting ML pipelines to React
 
 <br/>
 
-<a href="https://ritesh-ml-folio.vercel.app"><img src="https://img.shields.io/badge/🌐%20Portfolio-FF5722?style=for-the-badge" /></a>&nbsp;
+<a href="https://riteshnxt.dev"><img src="https://img.shields.io/badge/🌐%20Portfolio-FF5722?style=for-the-badge" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/ritesh-nxt"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="mailto:riteshraj339955@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
 <a href="https://github.com/RIT8603"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
