@@ -214,51 +214,7 @@ Multilingual document intelligence app — upload any document or image and get 
 
 <br/>
 
----
 
-## 💼 Work Experience
-
-<table>
-<tr>
-<td width="34%" valign="top">
-
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-<br/>
-
-**Generative AI Intern**
-`Sep 2024 – Oct 2024`
-
-Built **GeminiDecode** — integrated Gemini APIs for multilingual document extraction, translation, and insight generation. Delivered a working Streamlit product, not a notebook.
-
-</td>
-<td width="33%" valign="top">
-
-<img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" />
-<br/>
-
-**AI Intern — Green Tech AI**
-`Apr 2025 – May 2025`
-
-Applied ML pipelines to sustainability and energy datasets under IBM / AICTE / Shell India collaboration. Prototyped data-driven solutions for real environmental challenges.
-
-</td>
-<td width="33%" valign="top">
-
-<img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" />
-<br/>
-
-**Cybersecurity Intern**
-`Jan 2025 – Feb 2025`
-
-Shipped an LSB-based image steganography tool; studied threat modeling, secure communication, and information hiding. IBM SkillsBuild certified.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
 
 ## 🏆 Achievements
 
