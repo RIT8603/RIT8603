@@ -462,68 +462,6 @@ Every model I build ships with an API and a UI. Connecting ML pipelines to React
 </div>
 
 
----
-
-## 📜 Certifications
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/2026-GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
-
-**Mastering Machine Learning: Beginner to Expert**
-<br/><sub>GeeksforGeeks · 2026</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/2025-IBM%20%C2%B7%20AICTE%20%C2%B7%20Edunet-052FAD?style=flat-square&logo=ibm&logoColor=white" />
-
-**AI/ML for Green Tech**
-<br/><sub>IBM · AICTE · Edunet · 2025</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/2025-IBM%20SkillsBuild-052FAD?style=flat-square&logo=ibm&logoColor=white" />
-
-**Cybersecurity Fundamentals**
-<br/><sub>IBM SkillsBuild · 2025</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/2024-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-
-**Generative AI with Google Cloud**
-<br/><sub>Google Cloud · 2024</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/2023-Great%20Learning-FF6B35?style=flat-square&logo=greatlearning&logoColor=white" />
-
-**Introduction to Firewall**
-<br/><sub>Great Learning · 2023</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/2023-Great%20Learning-FF6B35?style=flat-square&logo=greatlearning&logoColor=white" />
-
-**Blockchain Basics**
-<br/><sub>Great Learning · 2023</sub>
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🔗 Let's Connect
 
