@@ -1,33 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ritesh%20Kumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20%2F%20ML%20Developer%20%E2%80%94%20Computer%20Vision%20%E2%80%94%20Generative%20AI&descAlignY=62&descSize=15&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ritesh%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20%2F%20ML%20Developer%20%E2%80%94%20Computer%20Vision%20%E2%80%94%20Generative%20AI&descAlignY=64&descSize=17&descColor=a78bfa" />
 
-<h3>AI / ML Developer · Computer Vision · Generative AI</h3>
+<a href="https://riteshnxt.dev"><img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/RIT8603/RIT8603/blob/main/ritesh-resume.pdf"><img src="https://img.shields.io/badge/Resume-%231a1a2e.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/ritesh-nxt"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:riteshraj339955@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/RIT8603"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<p>
-Building intelligent, production-oriented systems across
-<strong>Machine Learning, Computer Vision, Generative AI, and Full-Stack AI applications.</strong>
-</p>
+<br/><br/>
 
-<p>
-<a href="https://riteshnxt.dev">
-<img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=flat-square&logo=googlechrome&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/ritesh-nxt">
-<img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/RIT8603">
-<img src="https://img.shields.io/badge/GitHub-1a1a2e?style=flat-square&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:riteshraj339955@gmail.com">
-<img src="https://img.shields.io/badge/Email-1a1a2e?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-</p>
-
-<sub>B.Tech CSE · MIET Noida (AKTU) · Greater Noida, India</sub>
+B.Tech CSE, MIET Noida (AKTU)
 
 </div>
 
@@ -215,36 +198,31 @@ I'm particularly interested in opportunities involving:
 
 ---
 
-## 🤝 Let's Connect
-
-I'm open to connecting with developers, researchers, founders, and teams working on interesting problems in **AI/ML and Computer Vision**.
+## 🔗 Let's Connect
 
 <div align="center">
 
-<a href="https://riteshnxt.dev">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-24243e?style=for-the-badge" />
-</a>
+<br/>
 
-<a href="https://www.linkedin.com/in/ritesh-nxt">
-<img src="https://img.shields.io/badge/LinkedIn-24243e?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+**Open to AI/ML internship opportunities — let's build something real.**
 
-<a href="https://github.com/RIT8603">
-<img src="https://img.shields.io/badge/GitHub-24243e?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<br/>
 
-<a href="mailto:riteshraj339955@gmail.com">
-<img src="https://img.shields.io/badge/Email-24243e?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://riteshnxt.dev"><img src="https://img.shields.io/badge/🌐%20Portfolio-FF5722?style=for-the-badge" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/ritesh-nxt"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:riteshraj339955@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/RIT8603"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+<a href="https://kaggle.com/ritesh8603"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 
-<br><br>
+<br/><br/>
 
-<strong>Building AI. Solving real problems. Learning every day.</strong>
+<!-- Response time badge -->
+<img src="https://img.shields.io/badge/📬%20Response%20Time-Within%2024hrs-a78bfa?style=flat-square" />&nbsp;
+<img src="https://img.shields.io/badge/📍%20Location-Greater%20Noida%2C%20India-7c3aed?style=flat-square" />&nbsp;
+<img src="https://img.shields.io/badge/🕐%20Timezone-IST%20(UTC%2B5%3A30)-6d28d9?style=flat-square" />
 
-</div>
+<br/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=110&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&fontColor=a78bfa" />
 
 </div>
